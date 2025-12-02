@@ -1,6 +1,6 @@
 # Simple Functions
 
-This repository contains implementations of several simple signal processing functions in C++.
+This repository contains implementations of several simple signal processing functions in MATLAB.
 
 ---
 
