@@ -11,7 +11,7 @@ Simple moving average filter.
 ---
 
 ## First Order Filter
-First order filter with low pass filter test.  
+First order filter implementation.
 ![Example Result](Test%20Images/test.png)
 
 ---
