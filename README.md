@@ -18,7 +18,7 @@ First order filter implementation.
 
 ## Second Order Filter
 Second order filter implementation.  
-![Example Result](Test%20Images/secondtest.png)
+![Example Result](Test%20Images/secondtest.PNG)
 
 ---
 
